@@ -1,0 +1,112 @@
+[gd_scene format=3 uid="uid://b82qg6akqe8v7"]
+
+[ext_resource type="Texture2D" uid="uid://cmgsrnsy0lu6y" path="res://addons/kenney_prototype_textures/dark/texture_01.png" id="1_iwasa"]
+[ext_resource type="Texture2D" uid="uid://cdhlga3n2pxi2" path="res://addons/kenney_prototype_textures/dark/texture_02.png" id="2_nw2t4"]
+[ext_resource type="PackedScene" uid="uid://boufkmp75pefg" path="res://Scenes/player.tscn" id="3_05gim"]
+[ext_resource type="PackedScene" uid="uid://ci52bv1m15cbs" path="res://Cars/cars/Doge.tscn" id="4_hal1t"]
+[ext_resource type="PackedScene" uid="uid://bco75n18jwgn1" path="res://Map/future_city.glb" id="5_rdbpf"]
+[ext_resource type="Script" uid="uid://bgowbtpnkc2kt" path="res://addons/AdMesh/nodes/MeshAdPlayer.gd" id="6_oho3u"]
+[ext_resource type="Script" uid="uid://cj5s2d6j5mbiq" path="res://scripts/city_collision.gd" id="7_city_col"]
+[ext_resource type="PackedScene" path="res://ui/touch_controls.tscn" id="8_touch"]
+[ext_resource type="Script" uid="uid://txd24vuhyc1s" path="res://ui/touch_input.gd" id="9_touch_script"]
+[ext_resource type="Texture2D" uid="uid://dhw4voff860vy" path="res://addons/AdMesh/AdMesh_Test_Poster_1.png" id="10_yglu3"]
+
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_h6v5k"]
+sky_horizon_color = Color(0.64625, 0.65575, 0.67075, 1)
+ground_horizon_color = Color(0.64625, 0.65575, 0.67075, 1)
+
+[sub_resource type="Sky" id="Sky_qvc33"]
+sky_material = SubResource("ProceduralSkyMaterial_h6v5k")
+
+[sub_resource type="Environment" id="Environment_ixwyo"]
+background_mode = 2
+sky = SubResource("Sky_qvc33")
+tonemap_mode = 2
+
+[sub_resource type="NavigationMesh" id="NavigationMesh_5mly1"]
+vertices = PackedVector3Array(-1.2243, 0.32547, -0.868195, 1.0257, 0.32547, -1.11819, 1.0257, 0.32547, -491.118, -507.224, 0.32547, -491.118, -507.224, 0.32547, 1.13181, -1.2243, 0.32547, 1.13181, 3.0257, 0.32547, -1.11819, 3.2757, 0.32547, 1.13181, 491.776, 0.32547, 1.13181, 491.776, 0.32547, -491.118, -0.224304, 3.32547, -0.118195, -0.224304, 3.32547, 4.13181, 2.2757, 3.32547, 4.13181, 2.2757, 3.32547, -0.118195, 0.0256958, 0.32547, 0.131805, 0.0256958, 0.32547, 3.88181, 2.0257, 0.32547, 3.88181, 2.0257, 0.32547, 0.131805, -507.224, 0.32547, 2.88181, -1.2243, 0.32547, 2.88181, 3.2757, 0.32547, 2.88181, 491.776, 0.32547, 2.88181, 0.275696, 0.32547, 507.882, 0.525696, 0.32547, 5.13181, -1.2243, 0.32547, 4.88181, -507.224, 0.32547, 507.882, 3.2757, 0.32547, 4.88181, 1.5257, 0.32547, 5.13181, 1.7757, 0.32547, 507.882, 491.776, 0.32547, 507.882)
+polygons = [PackedInt32Array(1, 0, 2), PackedInt32Array(2, 0, 3), PackedInt32Array(3, 0, 4), PackedInt32Array(0, 5, 4), PackedInt32Array(7, 6, 8), PackedInt32Array(8, 6, 9), PackedInt32Array(9, 6, 2), PackedInt32Array(6, 1, 2), PackedInt32Array(13, 12, 10), PackedInt32Array(10, 12, 11), PackedInt32Array(17, 16, 14), PackedInt32Array(14, 16, 15), PackedInt32Array(4, 5, 18), PackedInt32Array(18, 5, 19), PackedInt32Array(7, 8, 20), PackedInt32Array(20, 8, 21), PackedInt32Array(23, 22, 24), PackedInt32Array(24, 22, 25), PackedInt32Array(24, 25, 18), PackedInt32Array(18, 19, 24), PackedInt32Array(26, 20, 21), PackedInt32Array(26, 21, 27), PackedInt32Array(27, 21, 28), PackedInt32Array(28, 21, 29), PackedInt32Array(23, 27, 22), PackedInt32Array(22, 27, 28)]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ixu72"]
+albedo_texture = ExtResource("1_iwasa")
+uv1_scale = Vector3(-0.025, -0.025, -0.025)
+uv1_triplanar = true
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_emumh"]
+albedo_texture = ExtResource("2_nw2t4")
+uv1_scale = Vector3(0.1, 0.1, 0.1)
+uv1_triplanar = true
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_4blnk"]
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_bwjpn"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_yglu3"]
+cull_mode = 2
+shading_mode = 0
+albedo_texture = ExtResource("10_yglu3")
+
+[node name="Test_scene" type="Node3D" unique_id=1909247133]
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=2014077148]
+transform = Transform3D(-0.4237481, -0.31879812, 0.8478239, 0.54172355, 0.66096276, 0.5192917, -0.72592914, 0.6793351, -0.107381344, 0, 0, 0)
+shadow_enabled = true
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=375585636]
+environment = SubResource("Environment_ixwyo")
+
+[node name="NavigationRegion3D" type="NavigationRegion3D" parent="." unique_id=1116823423]
+transform = Transform3D(0.8663425, 0, 0, 0, 1, 0, 0, 0, 0.97471046, 0, 0, 0)
+navigation_mesh = SubResource("NavigationMesh_5mly1")
+
+[node name="floor" type="CSGBox3D" parent="NavigationRegion3D" unique_id=312269179]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.72429, 0, 8.38181)
+use_collision = true
+size = Vector3(1000, 0.147, 1000)
+material = SubResource("StandardMaterial3D_ixu72")
+
+[node name="box" type="CSGBox3D" parent="NavigationRegion3D" unique_id=795450166]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.1109, 1.33206, 2.04694)
+use_collision = true
+size = Vector3(3.2218, 3.01318, 5.09387)
+material = SubResource("StandardMaterial3D_emumh")
+
+[node name="car" parent="." unique_id=1719582633 instance=ExtResource("4_hal1t")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.56678, 0, 1.75764)
+
+[node name="Player" parent="." unique_id=345308572 instance=ExtResource("3_05gim")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.4516, 0, 0)
+
+[node name="AdMesh" type="Node3D" parent="." unique_id=1082637522]
+transform = Transform3D(0.00193636, -0.06633778, -0.96810246, -0.18467337, 7.5692277, -0.008485181, 9.77642, 0.14299342, 3.144235e-05, -2.7553353, 5.590297, 1.9334462)
+script = ExtResource("6_oho3u")
+sdk_key = ""
+ad_unit_id = ""
+use_real_ads = false
+aspect_ratio_preset = 1
+enable_audio = true
+show_debug_overlay = true
+
+[node name="Sketchfab_Scene" parent="." unique_id=1918644903 instance=ExtResource("5_rdbpf")]
+transform = Transform3D(1.370163, 0, 39.97653, 0, 40, 0, -39.97653, 0, 1.370163, -15.930772, 0.09214759, -3.8442307)
+script = ExtResource("7_city_col")
+wait_frames = 3
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Sketchfab_Scene" unique_id=1466376029]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0045505986, -0.030099422, 0.13277042)
+mesh = SubResource("ArrayMesh_4blnk")
+
+[node name="TouchControls" parent="." unique_id=998194312 instance=ExtResource("8_touch")]
+script = ExtResource("9_touch_script")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=1340414989]
+transform = Transform3D(-7.230979, 4.3685418e-08, 0.0023988935, -0.004291353, 4.3737305e-08, -4.042165, -3.1607618e-07, -0.9999995, -1.7668862e-07, -13.362659, 11.576796, 28.741898)
+mesh = SubResource("PlaneMesh_bwjpn")
+surface_material_override/0 = SubResource("StandardMaterial3D_yglu3")
+script = ExtResource("6_oho3u")
+sdk_key = ""
+ad_unit_id = ""
+use_real_ads = false
+double_sided = true
+enable_audio = true
+show_debug_overlay = true

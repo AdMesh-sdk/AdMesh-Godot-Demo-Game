@@ -1,0 +1,1029 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://bco75n18jwgn1"
+path="res://.godot/imported/future_city.glb-1d0988e4575233f5d88ab759db50e5e2.scn"
+
+[deps]
+
+source_file="res://Map/future_city.glb"
+dest_files=["res://.godot/imported/future_city.glb-1d0988e4575233f5d88ab759db50e5e2.scn"]
+
+[params]
+
+nodes/root_type=""
+nodes/root_name=""
+nodes/root_script=null
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+nodes/import_as_skeleton_bones=false
+nodes/use_name_suffixes=true
+nodes/use_node_type_suffixes=true
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+animation/trimming=false
+animation/remove_immutable_tracks=true
+animation/import_rest_as_RESET=false
+import_script/path=""
+materials/extract=0
+materials/extract_format=0
+materials/extract_path=""
+_subresources={
+"nodes": {
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Arrows_018_196_436/Arrows_018_markings_0_195_437/Object_317_438/Object_117_439/Object_560": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Arrows_019_198_440/Arrows_019_markings_0_197_441/Object_320_442/Object_118_443/Object_565": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Arrows_020_200_444/Arrows_020_markings_0_199_445/Object_323_446/Object_119_447/Object_570": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Arrows_021_25_68/Arrows_021_markings_0_24_69/Object_48_70/Object_18_71/Object_93": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Arrows_022_27_72/Arrows_022_markings_0_26_73/Object_51_74/Object_19_75/Object_98": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Arrows_023_29_76/Arrows_023_markings_0_28_77/Object_54_78/Object_20_79/Object_103": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Arrows_024_31_80/Arrows_024_markings_0_30_81/Object_57_82/Object_21_83/Object_108": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Markings_011_33_84/Markings_011_greenmarkings_0_32_85/Object_60_86/Object_22_87/Object_113": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Object119_35_88/Object119_blue_markings_0_34_89/Object_63_90/Object_23_91/Object_118": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Object120_road_0_193_433/Object_314_434/Object_116_435/Object_555": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Pavements016_44_92/Pavements016_11___Default_0_36_93/Object_66_94/Object_24_95/Object_123": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Pavements016_44_92/Pavements016_19___Defaultds_0_37_96/Object_68_97/Object_25_98/Object_127": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Pavements016_44_92/Pavements016_Material__82839029_0_40_105/Object_74_106/Object_28_107/Object_139": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Pavements016_44_92/Pavements016_led_light_0_39_102/Object_72_103/Object_27_104/Object_135": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Pavements016_44_92/Pavements016_led_light_3_0_38_99/Object_70_100/Object_26_101/Object_131": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Pavements016_44_92/Pavements016_metal_chr_0_41_108/Object_76_109/Object_29_110/Object_143": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Pavements016_44_92/Pavements016_st1_0_42_111/Object_78_112/Object_30_113/Object_147": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Pavements016_44_92/Pavements016_w_5_0_43_114/Object_80_115/Object_31_116/Object_151": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_191_66_155/_gltfNode_10761_65_156/Street_lights_191_24___Default8_0_63_157/Object_112_158/Object_42_159/Object_205": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_191_66_155/_gltfNode_10761_65_156/Street_lights_191_light1_0_64_160/Object_114_161/Object_43_162/Object_209": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_200_70_163/_gltfNode_10819_69_164/Street_lights_200_24___Default8_0_67_165/Object_118_166/Object_44_167/Object_215": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_200_70_163/_gltfNode_10819_69_164/Street_lights_200_light1_0_68_168/Object_120_169/Object_45_170/Object_219": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_389_74_171/_gltfNode_10828_73_172/Street_lights_389_24___Default8_0_71_173/Object_124_174/Object_46_175/Object_225": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_389_74_171/_gltfNode_10828_73_172/Street_lights_389_light1_0_72_176/Object_126_177/Object_47_178/Object_229": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_390_78_179/_gltfNode_10832_77_180/Street_lights_390_24___Default8_0_75_181/Object_130_182/Object_48_183/Object_235": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_390_78_179/_gltfNode_10832_77_180/Street_lights_390_light1_0_76_184/Object_132_185/Object_49_186/Object_239": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_407_82_187/_gltfNode_10836_81_188/Street_lights_407_24___Default8_0_79_189/Object_136_190/Object_50_191/Object_245": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_407_82_187/_gltfNode_10836_81_188/Street_lights_407_light1_0_80_192/Object_138_193/Object_51_194/Object_249": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_408_86_195/_gltfNode_10840_85_196/Street_lights_408_24___Default8_0_83_197/Object_142_198/Object_52_199/Object_255": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_408_86_195/_gltfNode_10840_85_196/Street_lights_408_light1_0_84_200/Object_144_201/Object_53_202/Object_259": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_425_90_203/_gltfNode_10844_89_204/Street_lights_425_24___Default8_0_87_205/Object_148_206/Object_54_207/Object_265": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_425_90_203/_gltfNode_10844_89_204/Street_lights_425_light1_0_88_208/Object_150_209/Object_55_210/Object_269": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_426_94_211/_gltfNode_10848_93_212/Street_lights_426_24___Default8_0_91_213/Object_154_214/Object_56_215/Object_275": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_426_94_211/_gltfNode_10848_93_212/Street_lights_426_light1_0_92_216/Object_156_217/Object_57_218/Object_279": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_443_98_219/_gltfNode_10852_97_220/Street_lights_443_24___Default8_0_95_221/Object_160_222/Object_58_223/Object_285": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_443_98_219/_gltfNode_10852_97_220/Street_lights_443_light1_0_96_224/Object_162_225/Object_59_226/Object_289": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_444_102_227/_gltfNode_10856_101_228/Street_lights_444_24___Default8_0_99_229/Object_166_230/Object_60_231/Object_295": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_444_102_227/_gltfNode_10856_101_228/Street_lights_444_light1_0_100_232/Object_168_233/Object_61_234/Object_299": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_461_106_235/_gltfNode_10860_105_236/Street_lights_461_24___Default8_0_103_237/Object_172_238/Object_62_239/Object_305": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_461_106_235/_gltfNode_10860_105_236/Street_lights_461_light1_0_104_240/Object_174_241/Object_63_242/Object_309": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_462_110_243/_gltfNode_10864_109_244/Street_lights_462_24___Default8_0_107_245/Object_178_246/Object_64_247/Object_315": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_462_110_243/_gltfNode_10864_109_244/Street_lights_462_light1_0_108_248/Object_180_249/Object_65_250/Object_319": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_479_114_251/_gltfNode_10868_113_252/Street_lights_479_24___Default8_0_111_253/Object_184_254/Object_66_255/Object_325": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_479_114_251/_gltfNode_10868_113_252/Street_lights_479_light1_0_112_256/Object_186_257/Object_67_258/Object_329": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_480_118_259/_gltfNode_10872_117_260/Street_lights_480_24___Default8_0_115_261/Object_190_262/Object_68_263/Object_335": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_480_118_259/_gltfNode_10872_117_260/Street_lights_480_light1_0_116_264/Object_192_265/Object_69_266/Object_339": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_497_122_267/_gltfNode_10876_121_268/Street_lights_497_24___Default8_0_119_269/Object_196_270/Object_70_271/Object_345": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_497_122_267/_gltfNode_10876_121_268/Street_lights_497_light1_0_120_272/Object_198_273/Object_71_274/Object_349": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_498_126_275/_gltfNode_10880_125_276/Street_lights_498_24___Default8_0_123_277/Object_202_278/Object_72_279/Object_355": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_498_126_275/_gltfNode_10880_125_276/Street_lights_498_light1_0_124_280/Object_204_281/Object_73_282/Object_359": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_515_130_283/_gltfNode_10884_129_284/Street_lights_515_24___Default8_0_127_285/Object_208_286/Object_74_287/Object_365": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_515_130_283/_gltfNode_10884_129_284/Street_lights_515_light1_0_128_288/Object_210_289/Object_75_290/Object_369": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_516_134_291/_gltfNode_10888_133_292/Street_lights_516_24___Default8_0_131_293/Object_214_294/Object_76_295/Object_375": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_516_134_291/_gltfNode_10888_133_292/Street_lights_516_light1_0_132_296/Object_216_297/Object_77_298/Object_379": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_525_138_299/_gltfNode_10892_137_300/Street_lights_525_24___Default8_0_135_301/Object_220_302/Object_78_303/Object_385": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_525_138_299/_gltfNode_10892_137_300/Street_lights_525_light1_0_136_304/Object_222_305/Object_79_306/Object_389": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_526_142_307/_gltfNode_10896_141_308/Street_lights_526_24___Default8_0_139_309/Object_226_310/Object_80_311/Object_395": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_526_142_307/_gltfNode_10896_141_308/Street_lights_526_light1_0_140_312/Object_228_313/Object_81_314/Object_399": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_527_146_315/_gltfNode_10900_145_316/Street_lights_527_24___Default8_0_143_317/Object_232_318/Object_82_319/Object_405": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_527_146_315/_gltfNode_10900_145_316/Street_lights_527_light1_0_144_320/Object_234_321/Object_83_322/Object_409": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_528_150_323/_gltfNode_10904_149_324/Street_lights_528_24___Default8_0_147_325/Object_238_326/Object_84_327/Object_415": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_528_150_323/_gltfNode_10904_149_324/Street_lights_528_light1_0_148_328/Object_240_329/Object_85_330/Object_419": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_529_154_331/_gltfNode_10908_153_332/Street_lights_529_24___Default8_0_151_333/Object_244_334/Object_86_335/Object_425": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_529_154_331/_gltfNode_10908_153_332/Street_lights_529_light1_0_152_336/Object_246_337/Object_87_338/Object_429": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_530_158_339/_gltfNode_10912_157_340/Street_lights_530_24___Default8_0_155_341/Object_250_342/Object_88_343/Object_435": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_530_158_339/_gltfNode_10912_157_340/Street_lights_530_light1_0_156_344/Object_252_345/Object_89_346/Object_439": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_531_162_347/_gltfNode_10916_161_348/Street_lights_531_24___Default8_0_159_349/Object_256_350/Object_90_351/Object_445": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_531_162_347/_gltfNode_10916_161_348/Street_lights_531_light1_0_160_352/Object_258_353/Object_91_354/Object_449": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_532_166_355/_gltfNode_10920_165_356/Street_lights_532_24___Default8_0_163_357/Object_262_358/Object_92_359/Object_455": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Street_lights_532_166_355/_gltfNode_10920_165_356/Street_lights_532_light1_0_164_360/Object_264_361/Object_93_362/Object_459": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_055_172_363/Traffic_Lights_055_11___Default_tl_0_167_364/Object_267_365/Object_94_366/Object_464": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_055_172_363/Traffic_Lights_055_19___Default_0_168_367/Object_269_368/Object_95_369/Object_468": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_055_172_363/Traffic_Lights_055_amber_0_169_370/Object_271_371/Object_96_372/Object_472": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_055_172_363/Traffic_Lights_055_green_0_170_373/Object_273_374/Object_97_375/Object_476": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_055_172_363/Traffic_Lights_055_red1_0_171_376/Object_275_377/Object_98_378/Object_480": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_056_178_379/Traffic_Lights_056_11___Default_tl_0_173_380/Object_278_381/Object_99_382/Object_485": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_056_178_379/Traffic_Lights_056_19___Default_0_174_383/Object_280_384/Object_100_385/Object_489": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_056_178_379/Traffic_Lights_056_amber_0_175_386/Object_282_387/Object_101_388/Object_493": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_056_178_379/Traffic_Lights_056_green_0_176_389/Object_284_390/Object_102_391/Object_497": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_056_178_379/Traffic_Lights_056_red1_0_177_392/Object_286_393/Object_103_394/Object_501": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_057_184_395/Traffic_Lights_057_11___Default_tl_0_179_396/Object_289_397/Object_104_398/Object_506": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_057_184_395/Traffic_Lights_057_19___Default_0_180_399/Object_291_400/Object_105_401/Object_510": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_057_184_395/Traffic_Lights_057_amber_0_181_402/Object_293_403/Object_106_404/Object_514": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_057_184_395/Traffic_Lights_057_green_0_182_405/Object_295_406/Object_107_407/Object_518": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_057_184_395/Traffic_Lights_057_red1_0_183_408/Object_297_409/Object_108_410/Object_522": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_058_190_411/Traffic_Lights_058_11___Default_tl_0_185_412/Object_300_413/Object_109_414/Object_527": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_058_190_411/Traffic_Lights_058_19___Default_0_186_415/Object_302_416/Object_110_417/Object_531": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_058_190_411/Traffic_Lights_058_amber_0_187_418/Object_304_419/Object_111_420/Object_535": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_058_190_411/Traffic_Lights_058_green_0_188_421/Object_306_422/Object_112_423/Object_539": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/Traffic_Lights_058_190_411/Traffic_Lights_058_red1_0_189_424/Object_308_425/Object_113_426/Object_543": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/markings_011_blue_markings_0_191_427/Object_310_428/Object_114_429/Object_547": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/markings_011_greenmarkings_0_192_430/Object_312_431/Object_115_432/Object_551": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/road_sign_l022_62_117/Box7766_46_118/Box7766_1___Default_0_45_119/Object_84_120/Object_32_121/Object_157": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/road_sign_l022_62_117/Box7767_49_122/Box7767_1___Default_0_47_123/Object_87_124/Object_33_125/Object_162": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/road_sign_l022_62_117/Box7767_49_122/Box7767_Material__84_0_48_126/Object_89_127/Object_34_128/Object_166": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/road_sign_l022_62_117/Box7768_51_129/Box7768_conc_0_50_130/Object_92_131/Object_35_132/Object_171": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/road_sign_l022_62_117/Box7769_53_133/Box7769_1___Default_0_52_134/Object_95_135/Object_36_136/Object_176": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/road_sign_l022_62_117/Box7770_55_137/Box7770_1___Default_0_54_138/Object_98_139/Object_37_140/Object_181": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/road_sign_l022_62_117/Box7771_59_141/Box7771_19___Default_0_56_142/Object_101_143/Object_38_144/Object_186": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/road_sign_l022_62_117/Box7771_59_141/Box7771_8___Default_0_57_145/Object_103_146/Object_39_147/Object_190": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/road_sign_l022_62_117/Box7771_59_141/Box7771_sign2_0_58_148/Object_105_149/Object_40_150/Object_194": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Base_2_194_67/road_sign_l022_62_117/Box7772_61_151/Box7772_1___Default_0_60_152/Object_108_153/Object_41_154/Object_199": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Box19_341_752/Box19_01___Default_0_340_753/Object_547_754/Object_203_755/Object_962": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Box20_343_756/Box20_Material__82838964_0_342_757/Object_550_758/Object_204_759/Object_967": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Cylinder15_345_760/Cylinder15_Material__82838964_0_344_761/Object_553_762/Object_205_763/Object_972": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Cylinder16_347_764/Cylinder16_Material__82838964_0_346_765/Object_556_766/Object_206_767/Object_977": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Cylinder17_349_768/Cylinder17_01___Default_0_348_769/Object_559_770/Object_207_771/Object_982": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Cylinder18_351_772/Cylinder18_01___Default_0_350_773/Object_562_774/Object_208_775/Object_987": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Cylinder19_353_776/Cylinder19_01___Default_0_352_777/Object_565_778/Object_209_779/Object_992": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Cylinder21_355_780/Cylinder21_01___Default_0_354_781/Object_568_782/Object_210_783/Object_997": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Line09_363_798/Line09_04___Default_0_362_799/Object_581_800/Object_215_801/Object_1020": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Line10_365_802/Line10_04___Default_0_364_803/Object_584_804/Object_216_805/Object_1025": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Line11_367_806/Line11_04___Default_0_366_807/Object_587_808/Object_217_809/Object_1030": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Line12_369_810/Line12_04___Default_0_368_811/Object_590_812/Object_218_813/Object_1035": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Object166_371_814/Object166_glass_88_0_370_815/Object_593_816/Object_219_817/Object_1040": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Object198_374_818/Object198_light_7698_0_372_819/Object_596_820/Object_220_821/Object_1045": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Object198_374_818/Object198_wal_int_0_373_822/Object_598_823/Object_221_824/Object_1049": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Rectangle22_376_825/Rectangle22_04___Default_0_375_826/Object_601_827/Object_222_828/Object_1054": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Rectangle23_378_829/Rectangle23_04___Default_0_377_830/Object_604_831/Object_223_832/Object_1059": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Rectangle24_380_833/Rectangle24_04___Default_0_379_834/Object_607_835/Object_224_836/Object_1064": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Rectangle25_382_837/Rectangle25_04___Default_0_381_838/Object_610_839/Object_225_840/Object_1069": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Rectangle26_384_841/Rectangle26_04___Default_0_383_842/Object_613_843/Object_226_844/Object_1074": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Rectangle27_386_845/Rectangle27_04___Default_0_385_846/Object_616_847/Object_227_848/Object_1079": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Rectangle30_388_849/Rectangle30_04___Default_0_387_850/Object_619_851/Object_228_852/Object_1084": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Sphere05_390_853/Sphere05_Material__82838964_0_389_854/Object_622_855/Object_229_856/Object_1089": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/Sphere06_392_857/Sphere06_Material__82838964_0_391_858/Object_625_859/Object_230_860/Object_1094": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/frame02_357_784/frame02_Material__82838964_0_356_785/Object_571_786/Object_211_787/Object_1002": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/glass02_361_788/glass02_glass_0_360_795/Object_578_796/Object_214_797/Object_1015": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/glass02_361_788/glass02_glass_2_0_358_789/Object_574_790/Object_212_791/Object_1007": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_1_393_751/glass02_361_788/glass02_glass_3_0_359_792/Object_576_793/Object_213_794/Object_1011": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Box23_538_1159/Box23_w_0_537_1160/Object_849_1161/Object_308_1162/Object_1474": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Box24_540_1163/Box24_w_0_539_1164/Object_852_1165/Object_309_1166/Object_1479": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Cylinder29_542_1167/Cylinder29_w_0_541_1168/Object_855_1169/Object_310_1170/Object_1484": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Cylinder30_544_1171/Cylinder30_w_0_543_1172/Object_858_1173/Object_311_1174/Object_1489": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Cylinder31_546_1175/Cylinder31_w_0_545_1176/Object_861_1177/Object_312_1178/Object_1494": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Cylinder32_548_1179/Cylinder32_w_0_547_1180/Object_864_1181/Object_313_1182/Object_1499": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Cylinder33_550_1183/Cylinder33_w_0_549_1184/Object_867_1185/Object_314_1186/Object_1504": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Cylinder35_552_1187/Cylinder35_w_0_551_1188/Object_870_1189/Object_315_1190/Object_1509": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Line17_559_1202/Line17_w_0_558_1203/Object_881_1204/Object_319_1205/Object_1528": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Line18_561_1206/Line18_w_0_560_1207/Object_884_1208/Object_320_1209/Object_1533": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Line19_563_1210/Line19_w_0_562_1211/Object_887_1212/Object_321_1213/Object_1538": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Line20_565_1214/Line20_w_0_564_1215/Object_890_1216/Object_322_1217/Object_1543": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Object161_567_1218/Object161_glass_88_0_566_1219/Object_893_1220/Object_323_1221/Object_1548": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Object188_570_1222/Object188_light_7698_0_568_1223/Object_896_1224/Object_324_1225/Object_1553": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Object188_570_1222/Object188_wal_int_0_569_1226/Object_898_1227/Object_325_1228/Object_1557": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Rectangle41_572_1229/Rectangle41_w_0_571_1230/Object_901_1231/Object_326_1232/Object_1562": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Rectangle42_574_1233/Rectangle42_w_0_573_1234/Object_904_1235/Object_327_1236/Object_1567": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/Rectangle43_576_1237/Rectangle43_w_0_575_1238/Object_907_1239/Object_328_1240/Object_1572": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/frame04_554_1191/frame04_w_0_553_1192/Object_873_1193/Object_316_1194/Object_1514": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/glass04_557_1195/glass04_glass_4a_0_555_1196/Object_876_1197/Object_317_1198/Object_1519": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Building_2_595_1158/glass04_557_1195/glass04_glass_4b_0_556_1199/Object_878_1200/Object_318_1201/Object_1523": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Markings_010_202_448/Markings_010_greenmarkings_0_201_449/Object_326_450/Object_120_451/Object_575": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Object117_blue_markings_0_205_458/Object_332_459/Object_123_460/Object_587": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Object118_207_461/Object118_road_0_206_462/Object_335_463/Object_124_464/Object_592": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements015_11___Default_0_208_465/Object_337_466/Object_125_467/Object_596": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements015_19___Defaultds_0_209_468/Object_339_469/Object_126_470/Object_600": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements015_Material__82839029_0_212_477/Object_345_478/Object_129_479/Object_612": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements015_led_light_0_211_474/Object_343_475/Object_128_476/Object_608": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements015_led_light_3_0_210_471/Object_341_472/Object_127_473/Object_604": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements015_metal_chr_0_213_480/Object_347_481/Object_130_482/Object_616": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements015_st1_0_214_483/Object_349_484/Object_131_485/Object_620": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements015_w_5_0_215_486/Object_351_487/Object_132_488/Object_624": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements017_2_7/Pavements017_02___Default_0_0_8/Object_5_9/Object_0_10/Object_14": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements017_2_7/Pavements017_11___Default_0_1_11/Object_7_12/Object_1_13/Object_18": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements018_5_14/Pavements018_02___Default_0_3_15/Object_10_16/Object_2_17/Object_23": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements018_5_14/Pavements018_11___Default_0_4_18/Object_12_19/Object_3_20/Object_27": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements06_8_21/Pavements06_02___Default_0_6_22/Object_15_23/Object_4_24/Object_32": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements06_8_21/Pavements06_11___Default_0_7_25/Object_17_26/Object_5_27/Object_36": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements07_11_28/Pavements07_02___Default_0_9_29/Object_20_30/Object_6_31/Object_41": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Pavements07_11_28/Pavements07_11___Default_0_10_32/Object_22_33/Object_7_34/Object_45": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_167_237_527/_gltfNode_10588_236_528/Street_lights_167_24___Default8_0_234_529/Object_383_530/Object_143_531/Object_678": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_167_237_527/_gltfNode_10588_236_528/Street_lights_167_light1_0_235_532/Object_385_533/Object_144_534/Object_682": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_176_241_535/_gltfNode_10646_240_536/Street_lights_176_24___Default8_0_238_537/Object_389_538/Object_145_539/Object_688": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_176_241_535/_gltfNode_10646_240_536/Street_lights_176_light1_0_239_540/Object_391_541/Object_146_542/Object_692": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_323_245_543/_gltfNode_10655_244_544/Street_lights_323_24___Default8_0_242_545/Object_395_546/Object_147_547/Object_698": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_323_245_543/_gltfNode_10655_244_544/Street_lights_323_light1_0_243_548/Object_397_549/Object_148_550/Object_702": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_329_249_551/_gltfNode_10659_248_552/Street_lights_329_24___Default8_0_246_553/Object_401_554/Object_149_555/Object_708": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_329_249_551/_gltfNode_10659_248_552/Street_lights_329_light1_0_247_556/Object_403_557/Object_150_558/Object_712": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_387_253_559/_gltfNode_10687_252_560/Street_lights_387_24___Default8_0_250_561/Object_407_562/Object_151_563/Object_718": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_387_253_559/_gltfNode_10687_252_560/Street_lights_387_light1_0_251_564/Object_409_565/Object_152_566/Object_722": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_388_257_567/_gltfNode_10691_256_568/Street_lights_388_24___Default8_0_254_569/Object_413_570/Object_153_571/Object_728": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_388_257_567/_gltfNode_10691_256_568/Street_lights_388_light1_0_255_572/Object_415_573/Object_154_574/Object_732": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_405_261_575/_gltfNode_10695_260_576/Street_lights_405_24___Default8_0_258_577/Object_419_578/Object_155_579/Object_738": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_405_261_575/_gltfNode_10695_260_576/Street_lights_405_light1_0_259_580/Object_421_581/Object_156_582/Object_742": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_406_265_583/_gltfNode_10699_264_584/Street_lights_406_24___Default8_0_262_585/Object_425_586/Object_157_587/Object_748": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_406_265_583/_gltfNode_10699_264_584/Street_lights_406_light1_0_263_588/Object_427_589/Object_158_590/Object_752": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_423_269_591/_gltfNode_10703_268_592/Street_lights_423_24___Default8_0_266_593/Object_431_594/Object_159_595/Object_758": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_423_269_591/_gltfNode_10703_268_592/Street_lights_423_light1_0_267_596/Object_433_597/Object_160_598/Object_762": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_424_273_599/_gltfNode_10707_272_600/Street_lights_424_24___Default8_0_270_601/Object_437_602/Object_161_603/Object_768": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_424_273_599/_gltfNode_10707_272_600/Street_lights_424_light1_0_271_604/Object_439_605/Object_162_606/Object_772": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_441_277_607/_gltfNode_10711_276_608/Street_lights_441_24___Default8_0_274_609/Object_443_610/Object_163_611/Object_778": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_441_277_607/_gltfNode_10711_276_608/Street_lights_441_light1_0_275_612/Object_445_613/Object_164_614/Object_782": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_442_281_615/_gltfNode_10715_280_616/Street_lights_442_24___Default8_0_278_617/Object_449_618/Object_165_619/Object_788": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_442_281_615/_gltfNode_10715_280_616/Street_lights_442_light1_0_279_620/Object_451_621/Object_166_622/Object_792": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_459_285_623/_gltfNode_10719_284_624/Street_lights_459_24___Default8_0_282_625/Object_455_626/Object_167_627/Object_798": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_459_285_623/_gltfNode_10719_284_624/Street_lights_459_light1_0_283_628/Object_457_629/Object_168_630/Object_802": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_460_289_631/_gltfNode_10723_288_632/Street_lights_460_24___Default8_0_286_633/Object_461_634/Object_169_635/Object_808": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_460_289_631/_gltfNode_10723_288_632/Street_lights_460_light1_0_287_636/Object_463_637/Object_170_638/Object_812": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_477_293_639/_gltfNode_10727_292_640/Street_lights_477_24___Default8_0_290_641/Object_467_642/Object_171_643/Object_818": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_477_293_639/_gltfNode_10727_292_640/Street_lights_477_light1_0_291_644/Object_469_645/Object_172_646/Object_822": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_478_297_647/_gltfNode_10731_296_648/Street_lights_478_24___Default8_0_294_649/Object_473_650/Object_173_651/Object_828": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_478_297_647/_gltfNode_10731_296_648/Street_lights_478_light1_0_295_652/Object_475_653/Object_174_654/Object_832": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_495_301_655/_gltfNode_10735_300_656/Street_lights_495_24___Default8_0_298_657/Object_479_658/Object_175_659/Object_838": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_495_301_655/_gltfNode_10735_300_656/Street_lights_495_light1_0_299_660/Object_481_661/Object_176_662/Object_842": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_496_305_663/_gltfNode_10739_304_664/Street_lights_496_24___Default8_0_302_665/Object_485_666/Object_177_667/Object_848": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_496_305_663/_gltfNode_10739_304_664/Street_lights_496_light1_0_303_668/Object_487_669/Object_178_670/Object_852": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_513_309_671/_gltfNode_10743_308_672/Street_lights_513_24___Default8_0_306_673/Object_491_674/Object_179_675/Object_858": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_513_309_671/_gltfNode_10743_308_672/Street_lights_513_light1_0_307_676/Object_493_677/Object_180_678/Object_862": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_514_313_679/_gltfNode_10747_312_680/Street_lights_514_24___Default8_0_310_681/Object_497_682/Object_181_683/Object_868": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Street_lights_514_313_679/_gltfNode_10747_312_680/Street_lights_514_light1_0_311_684/Object_499_685/Object_182_686/Object_872": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_01_17_35/Traffic_Lights_01_11___Default_tl_0_12_36/Object_25_37/Object_8_38/Object_50": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_01_17_35/Traffic_Lights_01_19___Default_0_13_39/Object_27_40/Object_9_41/Object_54": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_01_17_35/Traffic_Lights_01_amber_0_14_42/Object_29_43/Object_10_44/Object_58": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_01_17_35/Traffic_Lights_01_green_0_15_45/Object_31_46/Object_11_47/Object_62": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_01_17_35/Traffic_Lights_01_red1_0_16_48/Object_33_49/Object_12_50/Object_66": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_04_23_51/Traffic_Lights_04_11___Default_tl_0_18_52/Object_36_53/Object_13_54/Object_71": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_04_23_51/Traffic_Lights_04_19___Default_0_19_55/Object_38_56/Object_14_57/Object_75": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_04_23_51/Traffic_Lights_04_amber_0_20_58/Object_40_59/Object_15_60/Object_79": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_04_23_51/Traffic_Lights_04_green_0_21_61/Object_42_62/Object_16_63/Object_83": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_04_23_51/Traffic_Lights_04_red1_0_22_64/Object_44_65/Object_17_66/Object_87": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_051_319_687/Traffic_Lights_051_11___Default_tl_0_314_688/Object_502_689/Object_183_690/Object_877": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_051_319_687/Traffic_Lights_051_19___Default_0_315_691/Object_504_692/Object_184_693/Object_881": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_051_319_687/Traffic_Lights_051_amber_0_316_694/Object_506_695/Object_185_696/Object_885": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_051_319_687/Traffic_Lights_051_green_0_317_697/Object_508_698/Object_186_699/Object_889": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_051_319_687/Traffic_Lights_051_red1_0_318_700/Object_510_701/Object_187_702/Object_893": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_052_325_703/Traffic_Lights_052_11___Default_tl_0_320_704/Object_513_705/Object_188_706/Object_898": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_052_325_703/Traffic_Lights_052_19___Default_0_321_707/Object_515_708/Object_189_709/Object_902": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_052_325_703/Traffic_Lights_052_amber_0_322_710/Object_517_711/Object_190_712/Object_906": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_052_325_703/Traffic_Lights_052_green_0_323_713/Object_519_714/Object_191_715/Object_910": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_052_325_703/Traffic_Lights_052_red1_0_324_716/Object_521_717/Object_192_718/Object_914": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_053_331_719/Traffic_Lights_053_11___Default_tl_0_326_720/Object_524_721/Object_193_722/Object_919": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_053_331_719/Traffic_Lights_053_19___Default_0_327_723/Object_526_724/Object_194_725/Object_923": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_053_331_719/Traffic_Lights_053_amber_0_328_726/Object_528_727/Object_195_728/Object_927": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_053_331_719/Traffic_Lights_053_green_0_329_729/Object_530_730/Object_196_731/Object_931": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_053_331_719/Traffic_Lights_053_red1_0_330_732/Object_532_733/Object_197_734/Object_935": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_054_337_735/Traffic_Lights_054_11___Default_tl_0_332_736/Object_535_737/Object_198_738/Object_940": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_054_337_735/Traffic_Lights_054_19___Default_0_333_739/Object_537_740/Object_199_741/Object_944": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_054_337_735/Traffic_Lights_054_amber_0_334_742/Object_539_743/Object_200_744/Object_948": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_054_337_735/Traffic_Lights_054_green_0_335_745/Object_541_746/Object_201_747/Object_952": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/Traffic_Lights_054_337_735/Traffic_Lights_054_red1_0_336_748/Object_543_749/Object_202_750/Object_956": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/ChamferCyl001_395_862/ChamferCyl001_07___Default_3_0_394_863/Object_629_864/Object_231_865/Object_1100": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/ChamferCyl002_397_866/ChamferCyl002_07___Default_3_0_396_867/Object_632_868/Object_232_869/Object_1105": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/ChamferCyl003_399_870/ChamferCyl003_07___Default_3_0_398_871/Object_635_872/Object_233_873/Object_1110": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/ChamferCyl004_401_874/ChamferCyl004_07___Default_3_0_400_875/Object_638_876/Object_234_877/Object_1115": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/ChamferCyl005_403_878/ChamferCyl005_07___Default_3_0_402_879/Object_641_880/Object_235_881/Object_1120": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/ChamferCyl006_405_882/ChamferCyl006_07___Default_3_0_404_883/Object_644_884/Object_236_885/Object_1125": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Circle002_407_886/Circle002_07___Default_0_406_887/Object_647_888/Object_237_889/Object_1130": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder003_001_409_890/Cylinder003_07___Default_0_408_891/Object_650_892/Object_238_893/Object_1135": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder004_001_411_894/Cylinder004_07___Default_0_410_895/Object_653_896/Object_239_897/Object_1140": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder005_001_413_898/Cylinder005_07___Default_0_412_899/Object_656_900/Object_240_901/Object_1145": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder006_001_415_902/Cylinder006_07___Default_0_414_903/Object_659_904/Object_241_905/Object_1150": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder007_417_906/Cylinder007_07___Default_0_416_907/Object_662_908/Object_242_909/Object_1155": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder008_419_910/Cylinder008_07___Default_0_418_911/Object_665_912/Object_243_913/Object_1160": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder009_421_914/Cylinder009_07___Default_0_420_915/Object_668_916/Object_244_917/Object_1165": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder010_423_918/Cylinder010_07___Default_0_422_919/Object_671_920/Object_245_921/Object_1170": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder011_425_922/Cylinder011_07___Default_0_424_923/Object_674_924/Object_246_925/Object_1175": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder012_427_926/Cylinder012_07___Default_0_426_927/Object_677_928/Object_247_929/Object_1180": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder013_429_930/Cylinder013_07___Default_0_428_931/Object_680_932/Object_248_933/Object_1185": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder014_431_934/Cylinder014_07___Default_0_430_935/Object_683_936/Object_249_937/Object_1190": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder015_433_938/Cylinder015_07___Default_0_432_939/Object_686_940/Object_250_941/Object_1195": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder016_001_435_942/Cylinder016_07___Default_0_434_943/Object_689_944/Object_251_945/Object_1200": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder017_437_946/Cylinder017_07___Default_0_436_947/Object_692_948/Object_252_949/Object_1205": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder018_439_950/Cylinder018_07___Default_0_438_951/Object_695_952/Object_253_953/Object_1210": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder019_441_954/Cylinder019_07___Default_0_440_955/Object_698_956/Object_254_957/Object_1215": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder020_001_443_958/Cylinder020_07___Default_0_442_959/Object_701_960/Object_255_961/Object_1220": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder021_001_445_962/Cylinder021_07___Default_0_444_963/Object_704_964/Object_256_965/Object_1225": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Cylinder022_447_966/Cylinder022_07___Default_0_446_967/Object_707_968/Object_257_969/Object_1230": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Group005_460_994/Line006_003_459_995/Line006_white_0_458_996/Object_728_997/Object_265_998/Object_1267": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Line005_003_463_999/Line005_02___Default_g_0_461_1000/Object_731_1001/Object_266_1002/Object_1272": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Line005_003_463_999/Line005_white_0_462_1003/Object_733_1004/Object_267_1005/Object_1276": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Line011_002_465_1006/Line011_white_0_464_1007/Object_736_1008/Object_268_1009/Object_1281": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object004_003_469_1010/Object004_02___Default_g_0_466_1011/Object_739_1012/Object_269_1013/Object_1286": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object004_003_469_1010/Object004_03___Default_0_467_1014/Object_741_1015/Object_270_1016/Object_1290": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object004_003_469_1010/Object004_07___Default_0_468_1017/Object_743_1018/Object_271_1019/Object_1294": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object005_001_472_1020/Object005_02___Default_g_0_470_1021/Object_746_1022/Object_272_1023/Object_1299": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object005_001_472_1020/Object005_white_0_471_1024/Object_748_1025/Object_273_1026/Object_1303": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object006_002_475_1027/Object006_glass_4a_0_001_473_1028/Object_751_1029/Object_274_1030/Object_1308": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object006_002_475_1027/Object006_glass_4light_0_474_1031/Object_753_1032/Object_275_1033/Object_1312": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object007_003_477_1034/Object007_07___Default_0_476_1035/Object_756_1036/Object_276_1037/Object_1317": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object008_002_479_1038/Object008_07___Default_4_0_478_1039/Object_759_1040/Object_277_1041/Object_1322": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object009_002_481_1042/Object009_07___Default_4_0_480_1043/Object_762_1044/Object_278_1045/Object_1327": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object010_002_483_1046/Object010_Material__827712455_0_482_1047/Object_765_1048/Object_279_1049/Object_1332": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object011_001_485_1050/Object011_Material__827712455_0_484_1051/Object_768_1052/Object_280_1053/Object_1337": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object012_002_487_1054/Object012_Material__827712455_0_486_1055/Object_771_1056/Object_281_1057/Object_1342": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object013_001_489_1058/Object013_Material__827712455_0_488_1059/Object_774_1060/Object_282_1061/Object_1347": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object014_002_491_1062/Object014_Material__0_0_490_1063/Object_777_1064/Object_283_1065/Object_1352": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Object027_493_1066/Object027_19___Default_0_492_1067/Object_780_1068/Object_284_1069/Object_1357": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape002_002_495_1070/Shape002_white_0_494_1071/Object_783_1072/Object_285_1073/Object_1362": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape011_001_498_1074/Shape011_07___Default_0_496_1075/Object_786_1076/Object_286_1077/Object_1367": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape011_001_498_1074/Shape011_Material__827712820_0_497_1078/Object_788_1079/Object_287_1080/Object_1371": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape012_500_1081/Shape012_Material__827712820_0_499_1082/Object_791_1083/Object_288_1084/Object_1376": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape013_502_1085/Shape013_Material__827712820_0_501_1086/Object_794_1087/Object_289_1088/Object_1381": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape014_504_1089/Shape014_07___Default_0_503_1090/Object_797_1091/Object_290_1092/Object_1386": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape016_506_1093/Shape016_07___Default_0_505_1094/Object_800_1095/Object_291_1096/Object_1391": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape024_508_1097/Shape024_white_0_507_1098/Object_803_1099/Object_292_1100/Object_1396": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape026_001_510_1101/Shape026_17___Defaultdsad_0_509_1102/Object_806_1103/Object_293_1104/Object_1401": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape028_001_512_1105/Shape028_07___Default_0_511_1106/Object_809_1107/Object_294_1108/Object_1406": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape029_001_514_1109/Shape029_Material__827712455_0_513_1110/Object_812_1111/Object_295_1112/Object_1411": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape030_002_516_1113/Shape030_Material__827712455_0_515_1114/Object_815_1115/Object_296_1116/Object_1416": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape031_002_518_1117/Shape031_07___Default_0_517_1118/Object_818_1119/Object_297_1120/Object_1421": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape033_002_520_1121/Shape033_07___Default_0_519_1122/Object_821_1123/Object_298_1124/Object_1426": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape036_001_523_1125/Shape036_05___Default_0_001_522_1131/Object_827_1132/Object_301_1133/Object_1438": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape036_001_523_1125/Shape036_05___Default_0_521_1126/Object_824_1127/Object_299_1128/Object_1431": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Shape036_001_523_1125/Shape036_05___Default_0_521_1126/Object_825_1129/Object_300_1130/Object_1434": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Sphere003_525_1134/Sphere003_07___Default_3_0_524_1135/Object_830_1136/Object_302_1137/Object_1443": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Sphere004_527_1138/Sphere004_07___Default_3_0_526_1139/Object_833_1140/Object_303_1141/Object_1448": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Sphere005_529_1142/Sphere005_07___Default_3_0_528_1143/Object_836_1144/Object_304_1145/Object_1453": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Sphere006_531_1146/Sphere006_07___Default_3_0_530_1147/Object_839_1148/Object_305_1149/Object_1458": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Sphere007_533_1150/Sphere007_07___Default_3_0_532_1151/Object_842_1152/Object_306_1153/Object_1463": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/Sphere008_535_1154/Sphere008_07___Default_3_0_534_1155/Object_845_1156/Object_307_1157/Object_1468": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/drape001_452_974/drape001_11___Default_0_001_451_978/Object_715_979/Object_260_980/Object_1244": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/drape001_452_974/drape001_11___Default_0_450_975/Object_713_976/Object_259_977/Object_1240": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/floor_slabs_455_981/floor_slabs_fl_0_001_454_987/Object_721_988/Object_263_989/Object_1256": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/floor_slabs_455_981/floor_slabs_fl_0_453_982/Object_718_983/Object_261_984/Object_1249": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/floor_slabs_455_981/floor_slabs_fl_0_453_982/Object_719_985/Object_262_986/Object_1252": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/building_11_536_861/glass_004_457_990/glass_Material__827712455_0_456_991/Object_724_992/Object_264_993/Object_1261": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/markings_010_blue_markings_0_203_452/Object_328_453/Object_121_454/Object_579": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/markings_010_greenmarkings_0_204_455/Object_330_456/Object_122_457/Object_583": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/road_sign_l021_233_489/Box7759_217_490/Box7759_1___Default_0_216_491/Object_355_492/Object_133_493/Object_630": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/road_sign_l021_233_489/Box7760_220_494/Box7760_1___Default_0_218_495/Object_358_496/Object_134_497/Object_635": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/road_sign_l021_233_489/Box7760_220_494/Box7760_Material__84_0_219_498/Object_360_499/Object_135_500/Object_639": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/road_sign_l021_233_489/Box7761_222_501/Box7761_conc_0_221_502/Object_363_503/Object_136_504/Object_644": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/road_sign_l021_233_489/Box7762_224_505/Box7762_1___Default_0_223_506/Object_366_507/Object_137_508/Object_649": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/road_sign_l021_233_489/Box7763_226_509/Box7763_1___Default_0_225_510/Object_369_511/Object_138_512/Object_654": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/road_sign_l021_233_489/Box7764_230_513/Box7764_19___Default_0_227_514/Object_372_515/Object_139_516/Object_659": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/road_sign_l021_233_489/Box7764_230_513/Box7764_8___Default_0_228_517/Object_374_518/Object_140_519/Object_663": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/road_sign_l021_233_489/Box7764_230_513/Box7764_sign2_0_229_520/Object_376_521/Object_141_522/Object_667": {
+"generate/physics": true
+},
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/Sketchfab_model_0/USDRoot_1/scene_2/Meshes_3/Sketchfab_model_4/root_5/GLTF_SceneRootNode_6/road_sign_l021_233_489/Box7765_232_523/Box7765_1___Default_0_231_524/Object_379_525/Object_142_526/Object_672": {
+"generate/physics": true
+}
+}
+}
+gltf/naming_version=2
+gltf/embedded_image_handling=1
